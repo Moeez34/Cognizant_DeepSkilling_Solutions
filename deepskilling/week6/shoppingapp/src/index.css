@@ -1,0 +1,29 @@
+body{
+
+    font-family: Arial;
+
+    text-align:center;
+
+}
+
+table{
+
+    margin:auto;
+
+    border-collapse:collapse;
+
+}
+
+th{
+
+    background:green;
+
+    color:white;
+
+}
+
+td{
+
+    padding:10px;
+
+}
