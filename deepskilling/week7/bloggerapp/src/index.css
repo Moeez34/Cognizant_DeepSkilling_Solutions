@@ -1,0 +1,25 @@
+body{
+
+    font-family:Arial;
+
+}
+
+.container{
+
+    display:flex;
+
+    justify-content:space-evenly;
+
+    margin-top:40px;
+
+}
+
+.box{
+
+    width:300px;
+
+    border-left:4px solid green;
+
+    padding-left:20px;
+
+}

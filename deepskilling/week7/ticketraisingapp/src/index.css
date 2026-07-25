@@ -1,0 +1,28 @@
+body{
+
+    font-family:Arial;
+
+    text-align:center;
+
+    margin-top:50px;
+
+}
+
+input,
+textarea{
+
+    width:220px;
+
+    padding:8px;
+
+    margin:8px;
+
+}
+
+button{
+
+    padding:8px 20px;
+
+    cursor:pointer;
+
+}
