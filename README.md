@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring](https://img.shields.io/badge/Spring-Core-green)
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This repository contains my solutions, practice exercises, and hands-on labs completed as part of the **Cognizant DeepSkilling Program**.
 
